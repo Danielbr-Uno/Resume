@@ -26,7 +26,7 @@ Estácio – 2025 – 2028
 Inglês intermediário
 
 ### Histórico Profissional
-Mills – 07/2023 – Atualmente.
+Mills – 07/2023 – 02/2025.
  - Técnico de Manutenção Jr. - Realizo a inspeção de entrada das máquinas que chegam após o período de locação, a inspeção de qualidade das máquinas após sua manutenção e a própria manutenção, se necessária.
 ##
 Nordeste Locações – 10/2019 – 06/2023
