@@ -1,9 +1,9 @@
 # Daniel Bruno Freitas da Silva
-Endereço: Rua das Oiticicas, 801, A, Passaré, Fortaleza(CE) – 60743-790.
-Celular: (85) 99796-0730.
-E-mail: daniel.bruno.dev19@gmail.com
-LinkedIn: www.linkedin.com/in/daniel-bruno-freitas-da-silva-3a0304335
-GitHub: https://github.com/Danielbr-Uno
+ - Endereço: Rua das Oiticicas, 801, A, Passaré, Fortaleza(CE) – 60743-790.
+ - Celular: (85) 99796-0730.
+ - E-mail: daniel.bruno.dev19@gmail.com
+ - LinkedIn: www.linkedin.com/in/daniel-bruno-freitas-da-silva-3a0304335
+ - GitHub: https://github.com/Danielbr-Uno
 
 ### Objetivo
 Profissional em transição de carreira para a área da TI, com foco no desenvolvimento de sistemas. Motivado pelo aprendizado continuo, estou determinado a contribuir para o crescimento da empresa.
