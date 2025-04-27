@@ -9,21 +9,19 @@
 Profissional em transição de carreira para a área da TI, com foco no desenvolvimento de sistemas. Motivado pelo aprendizado continuo, estou determinado a contribuir para o crescimento da empresa.
 
 ### Áreas de conhecimento
-Sistemas operacionais: Windows.
-Linguagens: Python, JavaScript.
-Framework: Django.
+ - Sistemas operacionais: Windows.
+ - Linguagens: Python, JavaScript.
+ - Framework: Django.
 
 ### Cursos
-Python Orientado a Objetos – Alura
-Lógica de programação – Alura
+ - Python Orientado a Objetos – Alura
+ - Lógica de programação – Alura
 
 ### Formação
-Tecnólogo em Análise e Desenvolvimento de Sistemas
-Cursando 1º semestre
-Estácio – 2025 – 2028
+ - Tecnólogo em Análise e Desenvolvimento de Sistemas(Cursando 1º semestre) - Estácio – 2025 – 2028
 
 ### Idiomas
-Inglês intermediário
+ - Inglês intermediário
 
 ### Histórico Profissional
 Mills – 07/2023 – 02/2025.
