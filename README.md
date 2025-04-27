@@ -27,7 +27,7 @@ Inglês intermediário
 
 ### Histórico Profissional
 Mills – 07/2023 – Atualmente.
-●	 Técnico de Manutenção Jr. - Realizo a inspeção de entrada das máquinas que chegam após o período de locação, a inspeção de qualidade das máquinas após sua manutenção e a própria manutenção, se necessária.
+ - Técnico de Manutenção Jr. - Realizo a inspeção de entrada das máquinas que chegam após o período de locação, a inspeção de qualidade das máquinas após sua manutenção e a própria manutenção, se necessária.
 ##
 Nordeste Locações – 10/2019 – 06/2023
-●	 Técnico de Manutenção Pleno - Responsável pela inspeção e manutenção dos equipamentos elétricos e de combustão da empresa após o período de locação. Especialista em máquinas elétricas, responsável pelo treinamento de novos colaboradores técnicos.
+ - Técnico de Manutenção Pleno - Responsável pela inspeção e manutenção dos equipamentos elétricos e de combustão da empresa após o período de locação. Especialista em máquinas elétricas, responsável pelo treinamento de novos colaboradores técnicos.
